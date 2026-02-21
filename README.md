@@ -10,3 +10,7 @@ The thesis will focus on:
 •	Testing the system’s performance under varying light conditions to assess its efficiency.
 
 •	Evaluating the theoretical feasibility of the large scale prototype, and possible extrapolation to real world application.
+
+A video of the working prototype can be found here:
+
+https://www.youtube.com/watch?v=CkXVX83rrmY
